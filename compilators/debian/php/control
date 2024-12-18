@@ -1,0 +1,9 @@
+Source: che-php
+Package: che-php
+Priority: optional
+Version: 8.2.0
+Section: web
+Maintainer: ATSiCorporation.
+Homepage: https://chepanel.aldinara.co.id
+Architecture: amd64
+Description: Che Panel PHP
